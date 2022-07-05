@@ -3,6 +3,7 @@ body {
 }
 .beginning {
     display: flex;
+    margin-bottom: 100px;
 }
 .skip {
     color: darkcyan;
@@ -35,7 +36,7 @@ h1 {
     font-weight: 400;
 }
 p{
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 }
 .image {
     padding-left: 130px;
@@ -43,4 +44,16 @@ p{
 }
 #background {
     background-image: url(images/shapes/Frame\ 56.jpg);
+    
+}
+h2 {
+    font-size: 35px;
+    padding-top: 60px;
+    color: darkslategray;
+}
+.lorem {
+    font-size: 20px;
+    text-align:left;
+    padding-right: 200px;
+color: dimgray;
 }
