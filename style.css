@@ -1,3 +1,46 @@
 body {
     font-family: 'Lora', serif;
 }
+.beginning {
+    display: flex;
+}
+.skip {
+    color: darkcyan;
+}
+h1 {
+    font-size: 50px;
+}
+.opening {
+    width: 50%;
+}
+#first {
+    padding-top: 70px;
+    padding-left: 60px;
+}
+.diet {
+    color:darkslategrey ;
+}
+.imagine {
+    font-size: 30px;
+    color:dimgray;
+}
+.button {
+    font-size: 20px;
+    text-decoration: none;
+    background-image: linear-gradient(blue , skyblue );
+    color: white;
+    border-top: 20px;
+   padding: 20px 40px;
+    border-radius: 20%;
+    font-weight: 400;
+}
+p{
+    padding-bottom: 30px;
+}
+.image {
+    padding-left: 130px;
+    padding-top: 60px;
+}
+#background {
+    background-image: url(images/shapes/Frame\ 56.jpg);
+}
