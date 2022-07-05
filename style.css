@@ -66,3 +66,51 @@ color: dimgray;
     color: dimgray;
     padding-top: 0px;
 }
+.New-recipe {
+    display: flex;
+    width: 50%;
+    padding: 0px 100px;
+}
+.border {
+    border: 20px solid white;
+    box-shadow: 10px 10px 10px blue;
+    border-radius: 10%;
+margin-right: 40px;
+}
+.reviews {
+    display: flex;
+    padding: 0%;
+}
+.customers {
+    text-align: center;
+    
+    padding: 200px;
+}
+#one {
+    padding-left: 400px;
+    padding-right: 0%;
+}
+#two {
+padding-left: 10%;
+}
+#three {
+padding-left: 0%;
+}
+footer{
+    background-color: black;
+   
+    height: 200px;
+    width:100%;
+}
+.last{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 40px;
+    color: skyblue;
+}
+.small{
+    text-align: center;
+    color: gray;
+    padding-left: 580px;
+    
+}
