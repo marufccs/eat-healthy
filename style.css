@@ -38,12 +38,14 @@ h1 {
 p{
     padding-bottom: 50px;
 }
+
 .image {
     padding-left: 130px;
     padding-top: 60px;
 }
 #background {
     background-image: url(images/shapes/Frame\ 56.jpg);
+    padding-bottom: 0%;
     
 }
 h2 {
@@ -56,4 +58,11 @@ h2 {
     text-align:left;
     padding-right: 200px;
 color: dimgray;
+}
+.intro {
+    text-align: center;
+    padding: 40px 450px;
+    font-size: 20px;
+    color: dimgray;
+    padding-top: 0px;
 }
